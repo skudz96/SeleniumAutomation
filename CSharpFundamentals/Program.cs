@@ -1,1 +1,3 @@
-﻿Console.WriteLine("Hello, World!");
+﻿using System.Diagnostics;
+
+Debug.WriteLine("Hello, World!");
